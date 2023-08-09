@@ -74,6 +74,8 @@ Remember, with **PlayHard**, your sports booking experience is just a few clicks
 
 ## Screenshots
 <img width="1440" alt="Screenshot 2023-07-31 at 9 06 58 PM" src="https://github.com/Mousum-stack/Sports-Booking-Website/assets/109821242/3f4aae7a-6943-405b-8eea-6d63e3de2057">
+<img width="1440" alt="Screenshot 2023-08-09 at 11 30 21 PM" src="https://github.com/Mousum-stack/Sports-Booking-Website/assets/109821242/e503f78a-c45b-4817-b61a-eca795a9fbd2">
+<img width="1440" alt="Screenshot 2023-08-09 at 11 30 51 PM" src="https://github.com/Mousum-stack/Sports-Booking-Website/assets/109821242/8c6d57f1-8fab-4eb0-8fe8-b521fef0d6de">
 
 
 Certainly! Here's a generic outline for the process of submitting pull requests and the guidelines contributors should follow:
